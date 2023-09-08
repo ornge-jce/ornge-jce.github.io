@@ -9,7 +9,7 @@
 
 <channel>
 	<title>ornge-jce</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=5" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=75" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Fri, 08 Sep 2023 04:57:25 +0000</lastBuildDate>
